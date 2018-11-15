@@ -1,15 +1,15 @@
 source 'http://rubygems.org'
-ruby "2.4.2"
+ruby "2.5.3"
 
 gem 'listen'
 gem 'rails-controller-testing'
 
 #gem 'pg'
 gem 'sqlite3'
-
+gem 'tzinfo-data'
 gem 'mandrill'	
 gem 'devise'
-gem 'fog'   #, '1.6.0'
+#gem 'fog'   #, '1.6.0'
 gem 'unf' 
 gem 'carrierwave'
 gem 'stripe'

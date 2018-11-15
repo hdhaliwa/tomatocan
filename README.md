@@ -23,6 +23,12 @@ Send your responses to rolemodelenterprises@gmail.com
 Refer to http://github.com/ece106/tomatocan and use tutorials, Google, etc. to help you figure out the answers. 
 
 1. What is the design of the Tomatocan database? Submit as a jpg or png (You may draw on paper & submit as a photo).
+Database used for Tomatocan is sqlite3. Below is the screen shot of database of Tomatocan.
+sqlite> .databases
+seq  name             file
+---  ---------------  ----------------------------------------------------------
+0    main
+sqlite>
 
 2. Which file/view is the users' home page? What information do authors get to display on their home page? Where is this information stored in the Tomatocan database?
 
